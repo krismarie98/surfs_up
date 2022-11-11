@@ -6,3 +6,6 @@
 - June also has a max temperature of 85 degrees while December has a max temperature of 83. degrees.
 - June has min temperature of 65 degrees and December has a min temperature of 56 degrees.
 ## Summary:
+#### Overall we can tell the June has higher a temperature than December throughout the different years. Another examples of some queries that could be created are one that look a specific year for both June and december. So I created those queries and put each one into its one data frame. Additionally, I used the describe function to find the statistics for each month in the year 2011. 
+![image](https://user-images.githubusercontent.com/112527054/201246063-f1f32ed8-b487-4915-a851-2f1fcc0dc850.png)
+![image](https://user-images.githubusercontent.com/112527054/201246100-da92b4d6-b3af-4acc-9ff1-f500f381555e.png)
